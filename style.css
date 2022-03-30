@@ -1,0 +1,131 @@
+ul {
+    list-style: none;
+    margin-right: 50px;
+    padding: 0;
+    
+}
+li{
+    float: right;
+    padding: 10px;
+    margin-left: 10px;
+    
+    
+}
+a{
+    text-decoration: none;
+    
+}
+.logo
+    {
+        padding-top:40px;
+        padding-left:85px;
+}
+.heading1{
+    padding-left:48px
+}
+.para1{
+    padding-left:50px;
+    margin-bottom:-9px;
+    width:25%
+
+    
+}
+.learn{
+    margin-left:50px
+}
+.content1{
+    background-color: gray;
+    line-height:50px;
+    margin:0px 40px
+}
+.wrap{
+    width: 1000px;
+    margin: auto;
+    margin-top: 20px;
+    line-height: 90px;
+}
+.card{
+    width:300px;
+    text-align: center;
+    float:left;
+    margin:10px;
+    background-color: gray;
+    margin-left:20px;
+    height: 150px;
+    color: gray;
+}
+.wrap1{
+    width: 1000px;
+    margin: auto;
+    margin-top: 20px;
+    line-height: 90px;
+}
+.card1{
+    width:300px;
+    text-align: center;
+    float: left;
+    margin: 10px;
+    margin-left:20px;
+
+}
+.wrap2{
+    width: 1000px;
+    margin: auto;
+   
+}
+.card2{
+    width:300px;
+    text-align: center;
+    float: left;
+    margin: 10px;
+    margin-left:20px;
+    margin-top: -40px;
+}
+.wrap3{
+    width: 1000px;
+    margin: auto;
+    
+   
+}
+.card3{
+    width:300px;
+    text-align: center;
+    float: left;
+    margin: 10px;
+    margin-left:20px;
+    margin-top: -40px;
+}
+.wrap4{
+    width: 1000px;
+    margin: auto;
+    margin-top: 20px;
+    line-height: 90px;
+}
+.card4{
+    width:1000px;
+    text-align: center;
+    float:left;
+    margin:10px;
+    background-color: gray;
+    margin-left:20px;
+    height: 100px;
+    color: gray;
+}
+.wrap5{
+    width: 1000px;
+    margin: auto;
+   
+}
+
+.card5{
+    width:300px;
+    text-align: center;
+    float: left;
+    margin: 10px;
+    margin-top: -20px;
+    color: black;
+}
+
+
+
+
