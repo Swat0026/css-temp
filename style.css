@@ -125,6 +125,18 @@ a{
     margin-top: -20px;
     color: black;
 }
+.left{
+    float: left;
+    width: 45%;
+}
+.right{
+    float: right;
+    width: 45%;
+}
+.ctmain{
+    color: black;
+    font-size: medium;
+}
 
 
 
